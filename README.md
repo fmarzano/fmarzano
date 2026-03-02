@@ -1,16 +1,17 @@
-## Hi there 👋
+Eu sou o Fellipe Marzano!
 
-<!--
-**Fellipemj/Fellipemj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor com conhecimento em Python e em evolução para me tornar um Desenvolvedor Full Stack.
 
-Here are some ideas to get you started:
+ Sobre mim:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Tenho conhecimento em Python
+
+ Atualmente cursando Engenharia de sofware
+
+Aprendendo mais sobre:
+
+Python
+Frontend (em aprendizado)
+Lógica de programação
+
+Objetivo: me tornar um desenvolvedor completo e trabalhar com tecnologia profissionalmente
