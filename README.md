@@ -11,7 +11,9 @@ Desenvolvedor com conhecimento em Python e em evolução para me tornar um Desen
 Aprendendo mais sobre:
 
 Python
+
 Frontend (em aprendizado)
+
 Lógica de programação
 
 Objetivo: me tornar um desenvolvedor completo e trabalhar com tecnologia profissionalmente
